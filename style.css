@@ -17,7 +17,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(/Undangan/ba8a087fae10299e5984497af48bdc62.jpg);
+  background-image: url(ba8a087fae10299e5984497af48bdc62.jpg);
   background-size: cover;
   background-position: center;
   z-index: -1;
@@ -82,7 +82,7 @@ body {
 }
 
 .home {
-  background-image: url("/Undangan/089453e30630b9e2a7c5d4d4f8bd1084.jpg");
+  background-image: url("089453e30630b9e2a7c5d4d4f8bd1084.jpg");
   background-size: cover;
   min-height: 100vh;
 }
@@ -100,7 +100,7 @@ body {
 }
 
 .lokasi {
-  background-image: url("/Undangan/089453e30630b9e2a7c5d4d4f8bd1084.jpg");
+  background-image: url("089453e30630b9e2a7c5d4d4f8bd1084.jpg");
   background-size: cover;
   min-height: 100vh;
   margin-top: -6rem;
